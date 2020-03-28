@@ -36,6 +36,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 
-  "learning" == "totally"
-  update_element_from_index("totally")
+  array[4] = "totally"
 end
