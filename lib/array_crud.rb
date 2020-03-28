@@ -35,5 +35,5 @@ array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-element[1] = "Belgian chocolate"
+element[4] = "Belgian chocolate"
 end
